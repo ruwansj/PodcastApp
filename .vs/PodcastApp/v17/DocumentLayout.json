@@ -1,0 +1,600 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New GIT\\PodcastApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\services\\podcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\services\\podcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\services\\cachedpodcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\services\\cachedpodcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\controllers\\podcastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\controllers\\podcastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|d:\\new git\\podcastapp\\auth.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|d:\\new git\\podcastapp\\auth.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|d:\\new git\\podcastapp\\auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF52091-64E1-4BE8-A825-E32471E9D7A3}|Comment.API\\Comment.API.csproj|d:\\new git\\podcastapp\\comment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF52091-64E1-4BE8-A825-E32471E9D7A3}|Comment.API\\Comment.API.csproj|solutionrelative:comment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|d:\\new git\\podcastapp\\shared\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|solutionrelative:shared\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|d:\\new git\\podcastapp\\shared\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|solutionrelative:shared\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|d:\\new git\\podcastapp\\shared\\models\\audiouploadsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|solutionrelative:shared\\models\\audiouploadsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|d:\\new git\\podcastapp\\shared\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|solutionrelative:shared\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|d:\\new git\\podcastapp\\shared\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|solutionrelative:shared\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|d:\\new git\\podcastapp\\shared\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|solutionrelative:shared\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|d:\\new git\\podcastapp\\auth.api\\auth.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\auth.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|d:\\new git\\podcastapp\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|solutionrelative:shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|d:\\new git\\podcastapp\\shared\\shared.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|solutionrelative:shared\\shared.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|d:\\new git\\podcastapp\\auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|d:\\new git\\podcastapp\\auth.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|d:\\new git\\podcastapp\\auth.api\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\services\\audiofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\services\\audiofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\data\\podcastdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\data\\podcastdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\services\\ipodcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\services\\ipodcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\podcast.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\podcast.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FBDD50-17EC-4615-B00C-2D71588EC27C}|ApiGateway\\ApiGateway.csproj|d:\\new git\\podcastapp\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6FBDD50-17EC-4615-B00C-2D71588EC27C}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FBDD50-17EC-4615-B00C-2D71588EC27C}|ApiGateway\\ApiGateway.csproj|d:\\new git\\podcastapp\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FBDD50-17EC-4615-B00C-2D71588EC27C}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|d:\\new git\\podcastapp\\podcast.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48C9C735-7BD3-4C0A-AE45-0EF9D6F47DE6}|Podcast.API\\Podcast.API.csproj|solutionrelative:podcast.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF52091-64E1-4BE8-A825-E32471E9D7A3}|Comment.API\\Comment.API.csproj|d:\\new git\\podcastapp\\comment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BF52091-64E1-4BE8-A825-E32471E9D7A3}|Comment.API\\Comment.API.csproj|solutionrelative:comment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF52091-64E1-4BE8-A825-E32471E9D7A3}|Comment.API\\Comment.API.csproj|d:\\new git\\podcastapp\\comment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BF52091-64E1-4BE8-A825-E32471E9D7A3}|Comment.API\\Comment.API.csproj|solutionrelative:comment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|d:\\new git\\podcastapp\\auth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{766DCDD3-E6E0-4793-86EA-6705C3D31D92}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FBDD50-17EC-4615-B00C-2D71588EC27C}|ApiGateway\\ApiGateway.csproj|d:\\new git\\podcastapp\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6FBDD50-17EC-4615-B00C-2D71588EC27C}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|d:\\new git\\podcastapp\\shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2388A625-8E3C-46FA-A78C-828CAB00E0CE}|Shared\\Shared.csproj|solutionrelative:shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Comment.API\\Program.cs",
+              "RelativeDocumentMoniker": "Comment.API\\Program.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Comment.API\\Program.cs",
+              "RelativeToolTip": "Comment.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:17:53.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Auth.API",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Auth.API\\Auth.API.csproj",
+              "RelativeDocumentMoniker": "Auth.API\\Auth.API.csproj",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Auth.API\\Auth.API.csproj",
+              "RelativeToolTip": "Auth.API\\Auth.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T03:30:23.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Shared",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\Shared.csproj",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Shared\\Shared.csproj",
+              "RelativeToolTip": "Shared\\Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T03:21:27.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Shared",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\Shared.csproj",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Shared\\Shared.csproj",
+              "RelativeToolTip": "Shared\\Shared.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T03:21:29.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Shared\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Shared\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Shared\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Shared\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:21:06.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Shared\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Shared\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Shared\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Shared\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:20:05.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Shared\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Shared\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Shared\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:19:10.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Auth.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth.API\\appsettings.json",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Auth.API\\appsettings.json",
+              "RelativeToolTip": "Auth.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T03:11:08.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Auth.API\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Auth.API\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Auth.API\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:10:25.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Auth.API\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Services\\IJwtService.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Auth.API\\Services\\IJwtService.cs",
+              "RelativeToolTip": "Auth.API\\Services\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:07:26.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Auth.API\\Program.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Program.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Auth.API\\Program.cs",
+              "RelativeToolTip": "Auth.API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:49:13.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Podcast.API\\appsettings.json",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\appsettings.json",
+              "RelativeToolTip": "Podcast.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T02:38:08.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\Program.cs",
+              "RelativeDocumentMoniker": "Podcast.API\\Program.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\Program.cs",
+              "RelativeToolTip": "Podcast.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:36:56.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PodcastService.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\Services\\PodcastService.cs",
+              "RelativeDocumentMoniker": "Podcast.API\\Services\\PodcastService.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\Services\\PodcastService.cs",
+              "RelativeToolTip": "Podcast.API\\Services\\PodcastService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:33:43.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPodcastService.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\Services\\IPodcastService.cs",
+              "RelativeDocumentMoniker": "Podcast.API\\Services\\IPodcastService.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\Services\\IPodcastService.cs",
+              "RelativeToolTip": "Podcast.API\\Services\\IPodcastService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:16:26.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Shared\\Models\\Podcast.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Podcast.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Shared\\Models\\Podcast.cs",
+              "RelativeToolTip": "Shared\\Models\\Podcast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:15:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CachedPodcastService.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\Services\\CachedPodcastService.cs",
+              "RelativeDocumentMoniker": "Podcast.API\\Services\\CachedPodcastService.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\Services\\CachedPodcastService.cs",
+              "RelativeToolTip": "Podcast.API\\Services\\CachedPodcastService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:08:10.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Shared\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Shared\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Shared\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Shared\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:06:37.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AudioFileService.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\Services\\AudioFileService.cs",
+              "RelativeDocumentMoniker": "Podcast.API\\Services\\AudioFileService.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\Services\\AudioFileService.cs",
+              "RelativeToolTip": "Podcast.API\\Services\\AudioFileService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:04:59.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Auth.API\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Services\\JwtService.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Auth.API\\Services\\JwtService.cs",
+              "RelativeToolTip": "Auth.API\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:03:10.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Auth.API\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Data\\AuthDbContext.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Auth.API\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Auth.API\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:59:31.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PodcastDbContext.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\Data\\PodcastDbContext.cs",
+              "RelativeDocumentMoniker": "Podcast.API\\Data\\PodcastDbContext.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\Data\\PodcastDbContext.cs",
+              "RelativeToolTip": "Podcast.API\\Data\\PodcastDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:58:33.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AudioUploadSettings.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Shared\\Models\\AudioUploadSettings.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\AudioUploadSettings.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Shared\\Models\\AudioUploadSettings.cs",
+              "RelativeToolTip": "Shared\\Models\\AudioUploadSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:47:22.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PodcastController.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\Controllers\\PodcastController.cs",
+              "RelativeDocumentMoniker": "Podcast.API\\Controllers\\PodcastController.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\Controllers\\PodcastController.cs",
+              "RelativeToolTip": "Podcast.API\\Controllers\\PodcastController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAvwB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:45:02.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\Models\\Podcast.cs",
+              "RelativeDocumentMoniker": "Podcast.API\\Models\\Podcast.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\Models\\Podcast.cs",
+              "RelativeToolTip": "Podcast.API\\Models\\Podcast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:44:24.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Podcast.API",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\Podcast.API.csproj",
+              "RelativeDocumentMoniker": "Podcast.API\\Podcast.API.csproj",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\Podcast.API.csproj",
+              "RelativeToolTip": "Podcast.API\\Podcast.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T18:43:56.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:43:15.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:39:30.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Podcast.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Podcast.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Podcast.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Podcast.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:36:08.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Comment.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Comment.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Comment.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Comment.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:35:50.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Comment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Comment.API\\appsettings.json",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Comment.API\\appsettings.json",
+              "RelativeToolTip": "Comment.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:35:45.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Auth.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Auth.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Auth.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Auth.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:34:43.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:33:56.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\New GIT\\PodcastApp\\Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "Shared\\Class1.cs",
+              "ToolTip": "D:\\New GIT\\PodcastApp\\Shared\\Class1.cs",
+              "RelativeToolTip": "Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:31:37.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ECPw+H6oR5U8vwjd1+sgQuG66qScXVQxbicpXDKIZls=",
+  "Source": "Podcast.API",
+  "BasePath": "_content/Podcast.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
